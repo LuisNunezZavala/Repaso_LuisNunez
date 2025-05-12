@@ -1,4 +1,4 @@
-package Capicúa;
+package repaso;
 import java.util.Scanner;
 //programa que pida por teclado un número entero N 
 //de más de una cifra y verifique si es capicúa
